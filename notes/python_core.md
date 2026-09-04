@@ -17,3 +17,10 @@ age = int(input("나이: "))
 ```python
 print(manual["title"])
 ```
+
+⭐ 핵심노트: int(input("입력: "))처럼 함수가 겹쳐 있으면, 연 괄호 수만큼 닫아야 한다.
+
+int(input("숫자: "))
+#  ↑   ↑          ↑↑
+#  열고 열고      닫고 닫고
+```
