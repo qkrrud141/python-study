@@ -9,6 +9,11 @@
 ```python
 age = int(input("나이: "))
 ```
-2. Dictionary
-⭐ 딕셔너리에서 값을 꺼낼 때는 딕셔너리["key"] 형식을 사용한다.
+
+## 2. Dictionary
+
+⭐ 딕셔너리에서 값을 꺼낼 때는 `딕셔너리["key"]` 형식을 사용한다.
+
+```python
 print(manual["title"])
+```
